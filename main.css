@@ -454,6 +454,7 @@ body {
     -webkit-transform: scale(0.6);
     -ms-transform: scale(0.6);
     transform: scale(0.6);
+    max-width: 30vh;
 }
 
 #project2:hover,
