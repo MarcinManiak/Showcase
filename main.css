@@ -410,6 +410,7 @@ body {
     -webkit-box-shadow: 4px 3px 8px 0px rgba(66, 66, 66, 1);
     box-shadow: 4px 3px 8px 0px rgba(66, 66, 66, 1);
     margin: 2%;
+    justify-content: center;
 }
 
 #project1 {
